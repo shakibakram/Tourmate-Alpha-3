@@ -1,0 +1,45 @@
+.primary-colour{
+    -fx-background-color: #0f1554;
+}
+
+.primary-colour-bg{
+    -fx-background-color: #e4e7ed;
+}
+
+.UI-text-header{
+    -fx-fill: #0f1554;
+    -fx-font-style: "bold";
+}
+
+.Text-field{
+    -fx-background-color: transparent;
+    -fx-border-color: #0f1554;
+    -fx-border-width: 0px 0px 1.5px 0px;
+}
+
+.action-button{
+    -fx-background-color: #0f1554;
+    -fx-text-fill: #fff;
+}
+
+.sidebar-button{
+    -fx-background-color: transparent;
+    -fx-text-fill: #fff;
+    -fx-font-size: 16;
+    -fx-font-style: bold;
+}
+
+.sidebar-button:hover{
+    -fx-background-color: #818794;
+    -fx-border-color: #fff;
+    -fx-border-width: 0px 0px 0px 3px;
+}
+
+.hyperlink-small{
+    -fx-font-size: 11px;
+    -fx-text-fill: #0f1554;
+}
+
+.sidebar-anchorpane{
+    -fx-background-color: #0f1554;
+}
